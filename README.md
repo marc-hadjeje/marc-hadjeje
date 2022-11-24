@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marc-hadjeje
+- 👋 Hi, I’m @marc-hadjeje Cloud Solution Architect Data & AI @ Microsoft
 - 👀 I’m interested in Data Platform 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Azure Data Project
